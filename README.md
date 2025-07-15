@@ -1,3 +1,3 @@
 # Smart Solution Website
 
-Dies ist ein Platzhalter für die Website von Smart Solution (`smartsolution.at`). Die Seite ist aktuell ein Beispiel mit minimalen Texten und einem animierten Bilder-Slider. Inhalte können später angepasst werden.
+Dies ist ein Platzhalter für die Website von Smart Solution (`smartsolution.at`). Die Seite enthält jetzt ein modernes Layout mit Karten, Pixabey-Bildern und sanften Scroll-Animationen. Inhalte können später angepasst werden.
